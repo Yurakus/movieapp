@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Yurakus/movieapp/static/css/main.fc2c2a3b.chunk.css",
-    "main.js": "/Yurakus/movieapp/static/js/main.f147249a.chunk.js",
-    "main.js.map": "/Yurakus/movieapp/static/js/main.f147249a.chunk.js.map",
+    "main.js": "/Yurakus/movieapp/static/js/main.f2da9c55.chunk.js",
+    "main.js.map": "/Yurakus/movieapp/static/js/main.f2da9c55.chunk.js.map",
     "runtime-main.js": "/Yurakus/movieapp/static/js/runtime-main.7d9cf0dd.js",
     "runtime-main.js.map": "/Yurakus/movieapp/static/js/runtime-main.7d9cf0dd.js.map",
     "static/css/2.61184005.chunk.css": "/Yurakus/movieapp/static/css/2.61184005.chunk.css",
     "static/js/2.6c73a1b5.chunk.js": "/Yurakus/movieapp/static/js/2.6c73a1b5.chunk.js",
     "static/js/2.6c73a1b5.chunk.js.map": "/Yurakus/movieapp/static/js/2.6c73a1b5.chunk.js.map",
     "index.html": "/Yurakus/movieapp/index.html",
-    "precache-manifest.e93412dd84bdbfb38d8dc1928c930e21.js": "/Yurakus/movieapp/precache-manifest.e93412dd84bdbfb38d8dc1928c930e21.js",
+    "precache-manifest.9e03155feb782bcf85c6c434bc00bd46.js": "/Yurakus/movieapp/precache-manifest.9e03155feb782bcf85c6c434bc00bd46.js",
     "service-worker.js": "/Yurakus/movieapp/service-worker.js",
     "static/css/2.61184005.chunk.css.map": "/Yurakus/movieapp/static/css/2.61184005.chunk.css.map",
     "static/css/main.fc2c2a3b.chunk.css.map": "/Yurakus/movieapp/static/css/main.fc2c2a3b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.61184005.chunk.css",
     "static/js/2.6c73a1b5.chunk.js",
     "static/css/main.fc2c2a3b.chunk.css",
-    "static/js/main.f147249a.chunk.js"
+    "static/js/main.f2da9c55.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cecf3aaf6a473ad76349d324e843579",
+    "revision": "74d919b763aa96bce631f111e0147867",
     "url": "/Yurakus/movieapp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Yurakus/movieapp/static/css/2.61184005.chunk.css"
   },
   {
-    "revision": "7ff6e070f688dba7bd97",
+    "revision": "4426745ee94efca22656",
     "url": "/Yurakus/movieapp/static/css/main.fc2c2a3b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Yurakus/movieapp/static/js/2.6c73a1b5.chunk.js"
   },
   {
-    "revision": "7ff6e070f688dba7bd97",
-    "url": "/Yurakus/movieapp/static/js/main.f147249a.chunk.js"
+    "revision": "4426745ee94efca22656",
+    "url": "/Yurakus/movieapp/static/js/main.f2da9c55.chunk.js"
   },
   {
     "revision": "999b98543b3fd1bbd007",
